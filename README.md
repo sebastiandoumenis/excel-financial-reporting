@@ -31,6 +31,11 @@ The annual report brings the key figures together so the company's available fun
 
 ![Monthly Data Input](monthly-input.png)
 
+## Project File
+
+The complete Excel workbook is available in this repository:
+[Excel Financial Reporting.xlsx](Excel%20Financial%20Reporting.xlsx)
+
 ## Data
 
 All company names, supplier names and financial figures used in this portfolio version are fictional/synthetic.

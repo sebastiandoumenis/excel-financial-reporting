@@ -21,6 +21,16 @@ The workbook provides a clear view of:
 
 The annual report brings the key figures together so the company's available funds, revenue and expenses can be reviewed from one place.
 
+## Screenshots
+
+### Yearly Financial Summary
+
+![Yearly Financial Summary](yearly-summary.png)
+
+### Monthly Data Input
+
+![Monthly Data Input](monthly-input.png)
+
 ## Data
 
 All company names, supplier names and financial figures used in this portfolio version are fictional/synthetic.
